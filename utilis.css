@@ -1,0 +1,33 @@
+.text-center{
+    text-align: center;
+}
+
+.bg-red{
+    background-color: rgb(255, 255, 255);
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.row input{
+    font-size: large;
+    margin: 10px;
+    padding: 12px 38px;
+    border: 2px solid;
+    border-radius: 10px;
+    border-color: rgb(234, 127, 44);
+}

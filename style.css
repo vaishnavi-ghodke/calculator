@@ -1,0 +1,10 @@
+.button{
+    padding: 20px;
+    margin:  3px;
+    border-radius: 50px;
+    border-color: black;
+}
+
+.row{
+    margin: 10px;
+}
